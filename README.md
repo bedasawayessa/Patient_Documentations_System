@@ -1,7 +1,11 @@
 # Patient_Documentations_System
 Patient Documentations System
 
-superuser
+<h1> superuser </h1>
 email: bedonaf@gmail.com
 <br>
 password: bedonaf
+
+<p> Index Page </p>
+![Index Page](images/index-page-1.png)
+
