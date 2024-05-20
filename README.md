@@ -7,5 +7,7 @@ email: bedonaf@gmail.com
 password: bedonaf
 
 <p> Index Page </p>
+
 ![Index_Page](images/index-page-1.png)
+
 
